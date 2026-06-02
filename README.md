@@ -15,6 +15,10 @@ This board connects an RP2040 with shunt to the CW308 UFO.
 - 2-layer PCB
 - Made with love
 
+## Ordering
+
+If you want to make your own, Gerbers are in `fab/gerbers/`. I made it with JLCPCB default 2-layer settings, so I included CPL and BOM for JLCPCB.
+
 ## Repository Structure
 
 ```
@@ -38,10 +42,6 @@ This board connects an RP2040 with shunt to the CW308 UFO.
     ├── schematic.pdf
     └── images/
 ```
-
-## Manufacturing
-
-Gerbers, drill files, and the Gerber job file are in `fabrication/`. I made this with JLCPCB, so the JLCPCB part numbers are included in the BOM.
 
 ## Andrew Acknowledgement
 
