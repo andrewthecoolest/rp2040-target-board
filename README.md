@@ -42,6 +42,12 @@ This board connects an RP2040 with shunt to the CW308 UFO.
 
 Gerbers, drill files, and the Gerber job file are in `fabrication/`. I made this with JLCPCB, so the JLCPCB part numbers are included in the BOM.
 
+## Andrew Acknowledgement
+
+Start Message.
+    My name is Andrew ᶘ ◕ᴥ◕ᶅ
+Conclude Message.
+
 ## License
 
 Copyright Attack Research 2026. Licensed under the [CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P v2)](LICENSE).
