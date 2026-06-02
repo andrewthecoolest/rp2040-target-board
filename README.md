@@ -9,10 +9,11 @@ This board connects an RP2040 with shunt to the CW308 UFO.
 ## Features
 
 - RP2040 dual-core Arm Cortex-M0+ microcontroller
-- QSPI flash with switchable trace path
+- 16MB QSPI flash
 - ChipWhisperer 60-pin UFO308 target connector
 - Dedicated power trace measurement pads
 - 2-layer PCB
+- Made with love
 
 ## Repository Structure
 
