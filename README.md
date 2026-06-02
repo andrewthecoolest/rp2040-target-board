@@ -35,6 +35,7 @@ If you want to make your own, Gerbers are in `fab/gerbers/`. I made it with JLCP
 │
 ├── fab/
 │   ├── gerbers/                    Gbrs and drill
+│   ├── 2040-target-fab.zip         Gerber and drill zip
 │   ├── jlcpcb_bom.csv              BOM
 │   └── jlcpcb_cpl.csv              CPL
 │
