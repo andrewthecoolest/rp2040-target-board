@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "10.0.3"
     },
-    "CreationDate": "2026-06-02T09:48:02-06:00"
+    "CreationDate": "2026-06-02T10:50:19-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "RP2040_target_board",
-      "GUID": "52503230-3430-45f7-9461-726765745f62",
+      "Name": "rp2040-target",
+      "GUID": "72703230-3430-42d7-9461-726765742e6b",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "RP2040_target_board-F_Cu.gbr",
+      "Path": "rp2040-target-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RP2040_target_board-B_Cu.gbr",
+      "Path": "rp2040-target-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RP2040_target_board-F_Paste.gbr",
+      "Path": "rp2040-target-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RP2040_target_board-B_Paste.gbr",
+      "Path": "rp2040-target-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RP2040_target_board-F_Silkscreen.gbr",
+      "Path": "rp2040-target-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RP2040_target_board-B_Silkscreen.gbr",
+      "Path": "rp2040-target-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RP2040_target_board-F_Mask.gbr",
+      "Path": "rp2040-target-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RP2040_target_board-B_Mask.gbr",
+      "Path": "rp2040-target-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RP2040_target_board-Edge_Cuts.gbr",
+      "Path": "rp2040-target-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
