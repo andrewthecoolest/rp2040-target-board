@@ -1,16 +1,16 @@
 # RP2040 Target Board
 
-A ChipWhisperer-compatible target board built around the Raspberry Pi RP2040 microcontroller, designed for side-channel analysis and fault injection research.
+A ChipWhisperer-compatible target board built around the Raspberry Pi RP2040.
 
 ## Overview
 
-This board connects to a ChipWhisperer capture platform via the 20-pin UFO308 target connector. It exposes power measurement shunt traces (TRACED0–3, TRACECLK) for electromagnetic and power side-channel analysis, and includes a QSPI flash chip with a DIP switch to switch the flash data lines in or out of the measurement path.
+This board connects an RP2040 with shunt to the CW308 UFO.
 
 ## Features
 
 - RP2040 dual-core Arm Cortex-M0+ microcontroller
-- QSPI flash with switchable trace path (pre/post-DIP measurement points)
-- ChipWhisperer 20-pin UFO308 target connector
+- QSPI flash with switchable trace path
+- ChipWhisperer 60-pin UFO308 target connector
 - Dedicated power trace measurement pads
 - 2-layer PCB
 
@@ -19,19 +19,19 @@ This board connects to a ChipWhisperer capture platform via the 20-pin UFO308 ta
 ```
 ├── hardware/
 │   ├── rp2040-target.kicad_pro     KiCad project
-│   ├── rp2040-target.kicad_pcb     PCB layout
-│   ├── rp2040-target.kicad_sch     Top-level schematic
-│   ├── rp2040-target.kicad_wks     Title block template
+│   ├── rp2040-target.kicad_pcb     PCB
+│   ├── rp2040-target.kicad_sch     Main schematic
+│   ├── rp2040-target.kicad_wks     AR template
 │   ├── RP2040.kicad_sch            RP2040 sub-sheet
 │   ├── Flash.kicad_sch             Flash sub-sheet
 │   └── libs/
-│       ├── Conn_UFO308.kicad_sym   UFO308 schematic symbol
-│       └── UFO308.pretty/          UFO308 footprint
+│       ├── Conn_UFO308.kicad_sym   UFO308 target schematic symbol
+│       └── UFO308.pretty/          UFO308 target footprint
 │
 ├── fab/
-│   ├── gerbers/                    Gerber and drill files
-│   ├── bom.csv                     Bill of materials
-│   └── cpl.csv                     Pick-and-place / CPL
+│   ├── gerbers/                    Gbrs and drill
+│   ├── jlcpcb_bom.csv              BOM
+│   └── jlcpcb_cpl.csv              CPL
 │
 └── docs/
     ├── schematic.pdf
@@ -40,7 +40,7 @@ This board connects to a ChipWhisperer capture platform via the 20-pin UFO308 ta
 
 ## Manufacturing
 
-Gerbers, drill files, and the Gerber job file are in `fabrication/`. The board has been fabricated with JLCPCB; JLCPCB part numbers are included in the BOM.
+Gerbers, drill files, and the Gerber job file are in `fabrication/`. I made this with JLCPCB, so the JLCPCB part numbers are included in the BOM.
 
 ## License
 
