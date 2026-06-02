@@ -1,0 +1,200 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+Preamble
+
+CERN has developed this licence to promote collaboration among hardware
+designers and to provide a legal tool which supports the freedom to use,
+study, modify, share and distribute hardware designs and products based on
+those designs. Version 2 of the CERN Open Hardware Licence comes in three
+variants: this licence, CERN-OHL-P (permissive); and two reciprocal
+licences: CERN-OHL-W (weakly reciprocal) and CERN-OHL-S (strongly
+reciprocal).
+
+The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in
+unmodified form only.
+
+Use of this Licence does not imply any endorsement by CERN of any Licensor
+or their designs nor does it imply any involvement by CERN in their
+development.
+
+1 Definitions
+
+  1.1 'Licence' means this CERN-OHL-P.
+
+  1.2 'Compatible Licence' means
+
+       a) any earlier version of the CERN Open Hardware licence, or
+
+       b) any version of the CERN-OHL-S or the CERN-OHL-W, or
+
+       c) any licence which permits You to treat the Source to which it
+          applies as licensed under CERN-OHL-S or CERN-OHL-W provided
+          that on combination with Source licensed under CERN-OHL-S or
+          CERN-OHL-W all licence conditions are met,
+
+  1.3 'Source' means information such as design materials or digital code
+      which can be applied to Make or test a Product or to prepare a
+      Product for use, Conveyance or sale, regardless of its medium or
+      how it is expressed. It may include Notices.
+
+  1.4 'Covered Source' means Source that is explicitly made available
+      under this Licence.
+
+  1.5 'Product' means any device, component, work or physical object,
+      whether in finished or intermediate form, arising from the use,
+      application or processing of Covered Source.
+
+  1.6 'Make' means to create or configure something, whether by
+      manufacture, assembly, compiling, loading or applying Covered
+      Source or another Product or otherwise.
+
+  1.7 'Available Component' means any part, sub-assembly, library or
+      code that:
+
+       a) is licensed to You as Complete Source under a Compatible
+          Licence; or
+
+       b) is available, at the time a Product or the Covered Source is
+          first Conveyed, to You and any other prospective licensees
+
+            i) as a physical part with sufficient rights and information
+               (including any configuration and programming files and
+               information about its characteristics and interfaces)
+               to enable it either to be Made itself, or to be sourced
+               and used to Make the Product; or
+           ii) as part of the normal distribution of a tool used to
+               design or Make the Product.
+
+  1.8 'Complete Source' means the set of all Source necessary to Make a
+      Product, in the preferred form for making modifications, including
+      necessary installation and interfacing information both for the
+      Product, and for any included Available Components. If the format
+      is proprietary, it must also be made available in a format (if the
+      proprietary tool can create it) which is viewable with a tool
+      available to potential licensees and licensed under a licence
+      approved by the Free Software Foundation or the Open Source
+      Initiative. Complete Source need not include the Source of any
+      Available Component, provided that You include in the Complete
+      Source sufficient information to enable a recipient to Make or
+      source and use any Available Components to Make the Product.
+
+  1.9 'Source Location' means a location where a Licensor has placed
+      Covered Source, and which that Licensor reasonably believes will
+      remain easily accessible for at least three years for anyone to
+      obtain a digital copy.
+
+ 1.10 'Notice' means copyright, acknowledgement and trademark notices,
+      Source Location references, modification notices (subsection 3.3(b))
+      and all notices that refer to this Licence and to the disclaimer of
+      warranties that are included in the Covered Source.
+
+ 1.11 'Licensor' means any person who creates or modifies Covered Source.
+      A person may be a Licensor and a Licensee at the same time.
+
+ 1.12 'Licensee' or 'You' means any person exercising rights under this
+      Licence.
+
+ 1.13 'Convey' means to communicate to the public or distribute.
+
+2 Applicability
+
+  2.1 This Licence governs the use, copying, modification, Conveying of
+      Covered Source and Products, and the Making of Products. By
+      exercising any right granted under this Licence, You irrevocably
+      accept these terms and conditions.
+
+  2.2 This Licence is granted by the Licensor directly to You, and shall
+      apply worldwide and without limitation in time.
+
+  2.3 You shall not attempt to restrict by contract or otherwise the
+      rights granted under this Licence to other Licensees.
+
+  2.4 This Licence is not intended to restrict fair use, fair dealing,
+      or any other similar right.
+
+3 Copying, Modifying and Conveying Covered Source
+
+  3.1 You may copy and Convey verbatim copies of Covered Source, in any
+      medium, provided You retain all Notices.
+
+  3.2 You may modify Covered Source, other than Notices, provided that
+      You irrevocably undertake to make that modified Source available
+      from a Source Location should You Convey a Product in circumstances
+      where the recipient does not otherwise receive a copy of the
+      modified Covered Source. In each case subsection 3.3 shall apply.
+
+      You may only delete Notices if they are no longer applicable to the
+      corresponding portion of the Covered Source (for example, a Notice
+      that is no longer applicable to the modified version).
+
+  3.3 You may Convey modified Covered Source (with the effect that You
+      shall also become a Licensor) provided that You:
+
+       a) retain Notices as required in subsection 3.2;
+
+       b) add a Notice to the modified Covered Source stating that You
+          have modified it, with the date and brief description of how
+          You have modified it;
+
+       c) add a Source Location Notice for the modified Covered Source
+          if You Convey in circumstances where the recipient does not
+          otherwise receive a copy of the modified Covered Source; and
+
+       d) not attempt to restrict access to (other than to the extent
+          permitted by section 3.5) the Source Location of the modified
+          Covered Source.
+
+  3.4 You may Convey Covered Source or modified Covered Source without
+      restriction provided that You do not Convey a Product.
+
+  3.5 The right to Convey under subsections 3.1, 3.2 and 3.3 does not
+      include the right to sublicence. Each time You communicate Covered
+      Source or modified Covered Source to a recipient, that recipient
+      automatically receives a licence under this Licence. You may not
+      impose any further restrictions on the exercise of the licence
+      granted to the recipient. You are not responsible for enforcing
+      compliance by third parties with this Licence.
+
+  3.6 If You Convey a copy of modified Covered Source with a Compilation,
+      You may, to the extent permitted by the licence of the Compilation,
+      replace the applicable portions of the licence notice above with
+      a different notice so that the Covered Source and the Compilation
+      can be exercised under different licences, provided that You do
+      not attempt to limit or restrict the right of the recipient to
+      obtain, modify and exercise the Covered Source.
+
+4 Making and Conveying Products
+
+You may Make Products, and/or Convey them, provided that You ensure that
+the recipient of the Product receives a copy of the Notices. You may make
+Products available for others to Make.
+
+5 DISCLAIMER AND LIABILITY
+
+  5.1 DISCLAIMER OF WARRANTY -- The Covered Source and any Products are
+      provided 'as is' and any express or implied warranties, including,
+      but not limited to, implied warranties of merchantability, of
+      satisfactory quality, non-infringement of third party rights, and
+      fitness for a particular purpose or use are disclaimed in respect
+      of any Source or Product to the maximum extent permitted by
+      applicable law. The Licensor makes no representation that the
+      Covered Source, the Product or the use of the Product will not
+      cause death, personal injury, or property damage. You may have
+      additional consumer rights under your local laws which this Licence
+      cannot override.
+
+  5.2 LIABILITY -- Subject to any liability that may not be excluded or
+      limited by applicable law, the Licensor shall have no liability
+      for direct, indirect, incidental, special, exemplary, punitive or
+      consequential damages of any character including, without
+      limitation, procurement of substitute goods or services, loss of
+      use, data or profits, or business interruption, however caused and
+      on any theory of contract, warranty, tort (including negligence),
+      product liability or otherwise, arising in any way in connection
+      with the Covered Source, the Products or the use of the Products,
+      even if advised of the possibility of such damages, and You shall
+      hold the Licensor(s) harmless from all liability, costs, damages,
+      fees and expenses, including claims by third parties, in relation
+      to such use.
+
+Copyright Attack Research 2026

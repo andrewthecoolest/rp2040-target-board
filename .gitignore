@@ -1,0 +1,17 @@
+# KiCad local/per-machine settings
+*.kicad_prl
+
+# KiCad lock files (created when project is open)
+*.lck
+
+# KiCad auto-backups
+*-backups/
+
+# Archives
+*.zip
+
+# macOS metadata
+.DS_Store
+
+# VS Code local history
+.history/
