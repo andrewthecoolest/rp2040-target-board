@@ -1045,7 +1045,7 @@
 			(uuid "7049adc1-9fac-478c-b164-669292f42db3")
 		)
 		(instances
-			(project "RP2040_target_board"
+			(project "rp2040-target"
 				(path "/061c03c6-5564-4c47-a1f4-f453d6b6ec2c/ca51cc05-e4f5-40a2-93e9-3a576d9c6178"
 					(reference "U2")
 					(unit 1)
@@ -1127,7 +1127,7 @@
 			(uuid "6636b517-bfa8-477b-a686-9f29d7a1ee0c")
 		)
 		(instances
-			(project "RP2040_target_board"
+			(project "rp2040-target"
 				(path "/061c03c6-5564-4c47-a1f4-f453d6b6ec2c/ca51cc05-e4f5-40a2-93e9-3a576d9c6178"
 					(reference "R3")
 					(unit 1)
@@ -1205,7 +1205,7 @@
 			(uuid "1e5fa371-3f59-4b69-9bc8-d485cd397ea8")
 		)
 		(instances
-			(project "RP2040_target_board"
+			(project "rp2040-target"
 				(path "/061c03c6-5564-4c47-a1f4-f453d6b6ec2c/ca51cc05-e4f5-40a2-93e9-3a576d9c6178"
 					(reference "#PWR05")
 					(unit 1)
@@ -1296,7 +1296,7 @@
 			(uuid "5488fed1-d6a5-439a-8671-d759b4db1c25")
 		)
 		(instances
-			(project "RP2040_target_board"
+			(project "rp2040-target"
 				(path "/061c03c6-5564-4c47-a1f4-f453d6b6ec2c/ca51cc05-e4f5-40a2-93e9-3a576d9c6178"
 					(reference "C3")
 					(unit 1)
@@ -1375,7 +1375,7 @@
 			(uuid "4dc0a0c9-1202-4aa1-b40b-a030ee7edc01")
 		)
 		(instances
-			(project "RP2040_target_board"
+			(project "rp2040-target"
 				(path "/061c03c6-5564-4c47-a1f4-f453d6b6ec2c/ca51cc05-e4f5-40a2-93e9-3a576d9c6178"
 					(reference "#PWR06")
 					(unit 1)

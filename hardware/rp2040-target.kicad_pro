@@ -813,7 +813,7 @@
   "sheets": [
     [
       "061c03c6-5564-4c47-a1f4-f453d6b6ec2c",
-      "RP2040_target_board"
+      "rp2040-target"
     ],
     [
       "80a6e129-4e3e-44d2-bfaf-f5284708e025",
