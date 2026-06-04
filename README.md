@@ -2,6 +2,8 @@
 
 A ChipWhisperer-compatible target board built around the Raspberry Pi RP2040.
 
+![board](./docs/images/rp2040-target-3d.png)
+
 ## Overview
 
 This board connects an RP2040 with shunt to the CW308 UFO.
